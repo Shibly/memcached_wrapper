@@ -19,7 +19,7 @@ If you are a Mac user , here is the basic instruction on how to install memcache
 
 + `brew install php55-memcache`
 
-	I'm using php55 . If you've installed different php version using brew, then command should be different . Like if you've installed php 5.4 then the command will be
+	I'm using php 5.5 . If you've installed different php version using brew, then command should be different . Like if you've installed php 5.4 then the command will be
 	
 + `brew install php54-memcache`	 
 
